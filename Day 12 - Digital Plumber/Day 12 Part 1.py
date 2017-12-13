@@ -7,7 +7,7 @@ for i in data:
     new_data[int(holder[0][0])] = holder[0][1]
 #def find_partners(x):
 #    partners = []
-#    for i in new_data[j].split(', '):
+#    for i in new_data[0].split(', '):
 #        partners.append(int(i))
 #        partners.append(find_partners(int(i)))
 
